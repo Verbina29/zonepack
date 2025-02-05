@@ -1,0 +1,13 @@
+name = "Visible Barriers"
+filename = "visible-barriers-2.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af64d56e39ab180a47a4130c059433e8514f7e9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4752712
+project-id = 507228

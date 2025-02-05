@@ -1,0 +1,13 @@
+name = "[Let's Do] Vinery"
+filename = "letsdo-vinery-forge-1.4.34.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff248824cb66d3dfa8604ea8c7d4f30cd3b6a859"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5992486
+project-id = 704465
