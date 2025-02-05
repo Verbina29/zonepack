@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "6b437e333054dd3b5212bf2f69864a5586fb5b2ad4510caf225f8718f2923686"
+hash = "f7ec8dc282e77a4ede97eab58fe84f6715f6099f0b0009b20bcb84c8991449cd"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "8ecaeac6f1a8ac1163686bea4795894ee51600f2f49d8b427c395ccd15dcd3a8"
+hash = "640c3885bce6e23c6e86a2cd30d98b234c92194cf78344bd1810d39e35f3e487"
 metafile = true
 
 [[files]]
