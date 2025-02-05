@@ -3,11 +3,11 @@ filename = "Crystal-Clear-2.1-Beta-forge.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/h7QgiH72/versions/sOYtDSLp/Crystal-Clear-2.1-Beta-forge.jar"
 hash-format = "sha1"
 hash = "90f0a118263a91661e58b2c56acccbbcf8afdc1c"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5402291
-project-id = 669724
+[update.modrinth]
+mod-id = "h7QgiH72"
+version = "sOYtDSLp"

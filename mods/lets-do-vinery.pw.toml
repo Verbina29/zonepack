@@ -1,13 +1,13 @@
 name = "[Let's Do] Vinery"
-filename = "letsdo-vinery-forge-1.4.34.jar"
+filename = "letsdo-vinery-forge-1.4.38.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/1DWmBJVA/versions/hDrAKoLQ/letsdo-vinery-forge-1.4.38.jar"
 hash-format = "sha1"
-hash = "ff248824cb66d3dfa8604ea8c7d4f30cd3b6a859"
-mode = "metadata:curseforge"
+hash = "3f3125cc3e7379b4f3d9682d24d91c34e1d782a6"
 
 [update]
-[update.curseforge]
-file-id = 5992486
-project-id = 704465
+[update.modrinth]
+mod-id = "1DWmBJVA"
+version = "hDrAKoLQ"

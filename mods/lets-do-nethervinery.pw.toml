@@ -3,11 +3,11 @@ filename = "letsdo-nethervinery-forge-1.2.16.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/4TTDxtOx/versions/C5lip8v9/letsdo-nethervinery-forge-1.2.16.jar"
 hash-format = "sha1"
 hash = "ef51dc8b6572e0d26d4d302690565427e5d76244"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5987940
-project-id = 930072
+[update.modrinth]
+mod-id = "4TTDxtOx"
+version = "C5lip8v9"

@@ -1,13 +1,13 @@
 name = "EMI Loot"
-filename = "emi_loot-0.7.4+1.20.1+forge.jar"
+filename = "emi_loot-0.7.5+1.20.1+fix1+forge.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/qbbO7Jns/versions/1UGIiguq/emi_loot-0.7.5%2B1.20.1%2Bfix1%2Bforge.jar"
 hash-format = "sha1"
-hash = "07ae3bd3fe084f0a895cbeaec625a9d8e66a3812"
-mode = "metadata:curseforge"
+hash = "4ffcd5c3626eeb95a0be8c65cda1e51328aad6bf"
 
 [update]
-[update.curseforge]
-file-id = 5760210
-project-id = 681783
+[update.modrinth]
+mod-id = "qbbO7Jns"
+version = "1UGIiguq"

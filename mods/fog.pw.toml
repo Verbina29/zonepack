@@ -1,13 +1,13 @@
 name = "Fog"
 filename = "Fog-forge-1.5.3-1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/WuGVWUF2/versions/5Lmz97Q7/Fog-forge-1.5.3-1.20.1.jar"
 hash-format = "sha1"
 hash = "2b874f1086ba8b0db1fe2cead9308decfb331517"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5967910
-project-id = 815438
+[update.modrinth]
+mod-id = "WuGVWUF2"
+version = "5Lmz97Q7"

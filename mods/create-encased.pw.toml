@@ -3,11 +3,11 @@ filename = "CreateCasing-1.20.1-1.6.2-fix1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/hSSqdyU1/versions/l0zvmFWJ/CreateCasing-1.20.1-1.6.2-fix1.jar"
 hash-format = "sha1"
 hash = "fb6cea30e70b576220728ffd440e2e6d86526011"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5859603
-project-id = 829380
+[update.modrinth]
+mod-id = "hSSqdyU1"
+version = "l0zvmFWJ"

@@ -1,13 +1,13 @@
 name = "Independent Gizmo"
 filename = "independent_gizmo-1.0.1+1.20.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/3UkQxRnN/versions/iWgJ4RV2/independent_gizmo-1.0.1%2B1.20.jar"
 hash-format = "sha1"
 hash = "bdcf286c62a478897947262fdff896bf7b8c2151"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4561631
-project-id = 474744
+[update.modrinth]
+mod-id = "3UkQxRnN"
+version = "iWgJ4RV2"
