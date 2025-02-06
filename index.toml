@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "d3a18bbfbb1436f8917f5275ce336de3fc6012dfe44ac074a4cc616976bae038"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "c64b42b33860929644d6b1b80b0c0342c7a0301c685cd2eaa89c9d832429d0d2"
 metafile = true
@@ -313,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/independent-gizmo.pw.toml"
 hash = "ca5abbf24355ea920e948984a171696b2eb21103dcdb4d61a430f13468b404b7"
+metafile = true
+
+[[files]]
+file = "mods/inv-view-forge.pw.toml"
+hash = "adc46f11708ef09b132f8dba229e019e4e36840b9380eced7967f83ec1d4674a"
 metafile = true
 
 [[files]]
